@@ -1,5 +1,5 @@
 {
-  "name": "cra-template-reactular-ts",
+  "name": "cra-template-atomic",
   "main": "template.json",
   "description": "A quick start CRA template with React, React-Router",
   "keywords": [
@@ -9,7 +9,8 @@
     "template",
     "react-router",
     "react-router-dom",
-    "atomic-design"
+    "atomic-design",
+    "atomic"
   ],
   "file": [
     "template",
