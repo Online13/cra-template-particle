@@ -1,0 +1,24 @@
+{
+  "name": "cra-template-reactular-ts",
+  "main": "template.json",
+  "description": "A quick start CRA template with React, React-Router",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "cra-template",
+    "template",
+    "react-router",
+    "react-router-dom",
+    "atomic-design"
+  ],
+  "file": [
+    "template",
+    "template.json"
+  ],
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
